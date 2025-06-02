@@ -100,7 +100,7 @@ library(knitr)         # Tableaux formatés
 
 ### Prérequis
 - R (≥ 4.0)
-- RStudio (recommandé)
+- RStudio 
 - Quarto
 
 ### Installation des packages
